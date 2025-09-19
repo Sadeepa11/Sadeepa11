@@ -45,10 +45,19 @@
 
 ---
 
-## 📂 Featured Projects  
-- 🔹 [JobBridge](#) – A MERN-based job portal for job seekers & employers  
-- 🔹 [Bright and Beyond](#) – E-commerce web application  
-- 🔹 [Next.js To-Do App](https://next-js-to-do-list-mongo-db.vercel.app/) – To-do list with MongoDB  
+## 🎓 Certifications & Learning  
+- ✅ **Responsive Web Design** – FreeCodeCamp  
+- ✅ **JavaScript Algorithms and Data Structures** – FreeCodeCamp  
+- 📚 Currently learning **Cloud Computing & DevOps (AWS, Docker)**  
+- 🎯 Next Target: **Machine Learning & AI Integrations**  
+
+---
+
+## 🌍 Fun Facts About Me  
+- 💡 I believe in **“Clean code = Clear mind”** ✨  
+- 🎶 Love coding with music 🎧  
+- 🌐 Always curious about **new web technologies**  
+- 🏏 Cricket fan & tech enthusiast  
 
 ---
 
