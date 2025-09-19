@@ -1,6 +1,10 @@
-# 👋 Hi, I’m Sadeepa  
+<!-- Profile README for Sadeepa11 -->
 
-💻 **Software Engineering Undergraduate | Full-Stack Developer**  
+<h1 align="center">👋 Hi, I'm Sadeepa</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;MERN+%7C+PHP+%7C+React+%7C+Next.js;Exploring+AI+%26+Scalable+Apps;🚀+World's+Best+in+the+Making!" />
+</p>
 
 ---
 
@@ -13,18 +17,31 @@
 ---
 
 ## 🛠️ Tech Stack  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=for-the-badge)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=for-the-badge)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=for-the-badge)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=for-the-badge)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,php,tailwind,bootstrap,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadeepa11&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadeepa11&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeepa11&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sadeepa11&theme=darkhub&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
@@ -35,13 +52,16 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Sadeepa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sadeepa11&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeepa11&layout=compact&theme=tokyonight)  
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/Sadeepa11"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=fff&style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge"/></a>
+</p>
 
 ---
 
-## 📫 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=fff&style=for-the-badge)](https://github.com/Sadeepa11)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:your-email@example.com)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sadeepa11&label=Profile+Views&color=blue&style=flat" alt="views"/>
+</p>
