@@ -16,6 +16,7 @@
 const sadeepa = {
     location: "Sri Lanka 🇱🇰",
     education: "Software Engineering Undergraduate",
+    founder: "Modulavers Systems 🚀",
     currentFocus: ["AI Integration", "Scalable Web Apps", "Cloud Computing"],
     funFact: "I debug with coffee ☕ and deploy with confidence 🚀",
     philosophy: "Clean code isn't written, it's crafted ✨"
@@ -23,6 +24,7 @@ const sadeepa = {
 ```
 
 🎯 **What Drives Me:**
+- 🚀 Founder of **Modulavers Systems** - A software company delivering innovative tech solutions
 - Creating intuitive, responsive web experiences that users love
 - Writing code that's maintainable, scalable, and elegant
 - Exploring cutting-edge technologies and best practices
@@ -77,7 +79,7 @@ const sadeepa = {
 ## 🏆 Achievements & Milestones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sadeepa11&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sadeepa11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=6" width="100%"/>
 </div>
 
 ### 🎓 Certifications
