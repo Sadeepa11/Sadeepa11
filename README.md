@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Sadeepa Sri Rohanasinghe
+# 🌟 Sadeepa Sri Rohansinghe
 
 ### Software Engineering Undergraduate | Full Stack Developer | Tech Enthusiast
 
@@ -18,6 +18,7 @@ const sadeepa = {
     education: "Software Engineering Undergraduate",
     founder: "Modulavers Systems 🚀",
     currentFocus: ["AI Integration", "Scalable Web Apps", "Cloud Computing"],
+    skills: ["Web", "Mobile (React Native)", "Desktop (Java Swing)"],
     funFact: "I debug with coffee ☕ and deploy with confidence 🚀",
     philosophy: "Clean code isn't written, it's crafted ✨"
 };
@@ -48,6 +49,11 @@ const sadeepa = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Mobile & Desktop 📱💻
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Database & Tools 🗄️
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
