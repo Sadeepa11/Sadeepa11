@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Sadeepa Wickramasinghe
+# 🌟 Sadeepa Sri Rohanasinghe
 
 ### Software Engineering Undergraduate | Full Stack Developer | Tech Enthusiast
 
