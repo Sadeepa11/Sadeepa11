@@ -1,90 +1,126 @@
-<!-- Profile README for Sadeepa11 -->
+<div align="center">
 
-<h1 align="center">👋 Hi, I'm Sadeepa</h1>
+# 🌟 Sadeepa Wickramasinghe
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;MERN+%7C+PHP+%7C+React+%7C+Next.js;Exploring+AI+%26+Scalable+Apps;🚀+World's+Best+in+the+Making!" />
-</p>
+### Software Engineering Undergraduate | Full Stack Developer | Tech Enthusiast
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+the+Future%2C+One+Line+at+a+Time;MERN+Stack+%7C+Next.js+%7C+PHP+Developer;Passionate+About+Clean+Code+%26+Innovation;Always+Learning%2C+Always+Growing+🚀)](https://git.io/typing-svg)
 
-## 🚀 About Me  
-- ⚡ Passionate about building **responsive, user-friendly web applications**  
-- 🌱 Skilled in **MERN Stack, PHP, MySQL, MongoDB, React, Next.js**  
-- 🔭 Exploring **AI integrations & scalable applications**  
-- 🎯 Goal: To contribute to **innovative projects** and grow as a developer  
+</div>
 
 ---
 
-## 🛠️ Tech Stack  
+## 💫 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,php,tailwind,bootstrap,git,github" />
-</p>
+```typescript
+const sadeepa = {
+    location: "Sri Lanka 🇱🇰",
+    education: "Software Engineering Undergraduate",
+    currentFocus: ["AI Integration", "Scalable Web Apps", "Cloud Computing"],
+    funFact: "I debug with coffee ☕ and deploy with confidence 🚀",
+    philosophy: "Clean code isn't written, it's crafted ✨"
+};
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Optimized-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Loves-UI%2FUX-orange?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Always-Learning-success?style=for-the-badge&logo=udemy&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadeepa11&show_icons=true&theme=radical&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadeepa11&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeepa11&layout=compact&theme=radical" height="160"/>
-</p>
+🎯 **What Drives Me:**
+- Creating intuitive, responsive web experiences that users love
+- Writing code that's maintainable, scalable, and elegant
+- Exploring cutting-edge technologies and best practices
+- Contributing to open-source and collaborative projects
 
 ---
 
-## 🏆 Achievements  
+## 🔧 Technology Arsenal
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sadeepa11&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1&column=6" />
-</p>
+<div align="center">
 
----
+### Frontend Magic ✨
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 📈 Activity Graph  
+### Backend Power ⚡
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadeepa11&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/>
-</p>
+### Database & Tools 🗄️
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-
-## 🎓 Certifications & Learning  
-- ✅ **Responsive Web Design** – FreeCodeCamp  
-- ✅ **JavaScript Algorithms and Data Structures** – FreeCodeCamp  
-- 📚 Currently learning **Cloud Computing & DevOps (AWS, Docker)**  
-- 🎯 Next Target: **Machine Learning & AI Integrations**  
-
----
-
-## 🌍 Fun Facts About Me  
-- 💡 I believe in **“Clean code = Clear mind”** ✨  
-- 🎶 Love coding with music 🎧  
-- 🌐 Always curious about **new web technologies**  
-- 🏏 Cricket fan & tech enthusiast  
+</div>
 
 ---
 
-## 📫 Connect With Me  
+## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/Sadeepa11"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=fff&style=for-the-badge&animation=flash"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge&animation=flash"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge&animation=flash"/></a>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sadeepa11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeepa11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadeepa11&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadeepa11&custom_title=Contribution%20Graph&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" width="95%"/>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sadeepa11&label=Profile+Views&color=blue&style=flat-square" alt="views"/>
-</p>
+## 🏆 Achievements & Milestones
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sadeepa11&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+</div>
+
+### 🎓 Certifications
+- ✅ **Responsive Web Design** – FreeCodeCamp
+- ✅ **JavaScript Algorithms and Data Structures** – FreeCodeCamp
+- 📚 Currently exploring **AWS & Docker**
+- 🎯 Next up: **Machine Learning Fundamentals**
+
+---
+
+## 🎨 What Makes Me Unique
+
+<div align="center">
+
+| 💡 Philosophy | 🎯 Approach | 🚀 Vision |
+|:---:|:---:|:---:|
+| Clean code = Clear mind | User-first design | Innovation through simplicity |
+| Continuous learning | Attention to detail | Building for tomorrow |
+| Quality over quantity | Test-driven development | Scalable solutions |
+
+</div>
+
+---
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadeepa11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 "First, solve the problem. Then, write the code." – John Johnson
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sadeepa11&color=6C63FF&style=for-the-badge)
+
+<sub>⭐️ From [Sadeepa11](https://github.com/Sadeepa11) | Built with 💜 and lots of ☕</sub>
+
+</div>
