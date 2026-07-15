@@ -75,6 +75,17 @@ const sadeepa = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadeepa11&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
+<br>
+
+<div align="center">
+  <h3>🔥 My Contributions</h3>
+  <a href="https://github.com/Sadeepa11">
+    <img src="https://ghchart.rshah.org/40C463/Sadeepa11" alt="Sadeepa's Github Contribution Chart" width="800" />
+  </a>
+</div>
+
+<br>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sadeepa11&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
